@@ -1,0 +1,27 @@
+﻿body {
+    text-align: center;
+}
+
+.center-page 
+{
+    width: 450px;
+    height: 650px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.footer-pos 
+{
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 600px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}

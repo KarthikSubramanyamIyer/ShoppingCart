@@ -1,0 +1,15 @@
+C:\Csharp\Shoppingv2\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Csharp\Shoppingv2\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\System.Security.AccessControl.dll
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\System.Security.Permissions.dll
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\System.Security.AccessControl.xml
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\System.Security.Permissions.xml
+C:\Csharp\Shoppingv2\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Csharp\Shoppingv2\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Csharp\Shoppingv2\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Csharp\Shoppingv2\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

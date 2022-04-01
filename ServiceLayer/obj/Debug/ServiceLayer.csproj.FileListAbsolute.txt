@@ -1,0 +1,11 @@
+C:\Csharp\Shoppingv2\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+C:\Csharp\Shoppingv2\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Csharp\Shoppingv2\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Csharp\Shoppingv2\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Csharp\Shoppingv2\ServiceLayer\bin\Debug\DataAccessLayer.dll
+C:\Csharp\Shoppingv2\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+C:\Csharp\Shoppingv2\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Csharp\Shoppingv2\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Csharp\Shoppingv2\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Csharp\Shoppingv2\ServiceLayer\bin\Debug\DataModellayer.dll
+C:\Csharp\Shoppingv2\ServiceLayer\bin\Debug\DataModellayer.pdb

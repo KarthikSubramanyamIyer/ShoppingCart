@@ -1,0 +1,6 @@
+C:\Csharp\Shoppingv2\DataModellayer\bin\Debug\DataModellayer.dll
+C:\Csharp\Shoppingv2\DataModellayer\bin\Debug\DataModellayer.pdb
+C:\Csharp\Shoppingv2\DataModellayer\obj\Debug\DataModellayer.csproj.AssemblyReference.cache
+C:\Csharp\Shoppingv2\DataModellayer\obj\Debug\DataModellayer.csproj.CoreCompileInputs.cache
+C:\Csharp\Shoppingv2\DataModellayer\obj\Debug\DataModellayer.dll
+C:\Csharp\Shoppingv2\DataModellayer\obj\Debug\DataModellayer.pdb
